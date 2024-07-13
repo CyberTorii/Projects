@@ -28,6 +28,8 @@ Here is a preview of the game companion for Overwatch:
   <img width="720" alt="My_Game_Compnion_Team_Manager" src="assets/My_Game_Companion_Team_Manager.png">
 </p>
 
+Download [link](https://github.com/CyberTorii/Projects/releases/tag/v1.0.0)
+
 ## State:
 - [ ] Work in progress
 - [X] Work completed

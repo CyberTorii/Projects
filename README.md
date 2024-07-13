@@ -88,6 +88,8 @@ Here are some key highlights of the app's features:
   <img width="720" alt="Skill_Tree" src="assets/Skill_Tree_demo.png"/>
 </p>
 
+Download [link](https://github.com/CyberTorii/Projects/releases/tag/V.1.01.06.21)
+
 **Embark on a Journey of Self-Improvement with Skill Tree!**
 
 > #Flutter, #Dart, #Real-life skill tree
